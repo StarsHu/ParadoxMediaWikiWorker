@@ -1,0 +1,11 @@
+[[source]]
+name = "pypi"
+url = "https://mirrors.aliyun.com/pypi/simple/"
+
+[dev-packages]
+
+[packages]
+requests = "*"
+
+[requires]
+python_version = "3.8"
